@@ -7,15 +7,16 @@ if ($name == "shiro") {
 } else {
     echo "shiro ではありません";
 }
+echo "\n";
 
 
 //02
 $total = 0;
-echo $total;
 for ($i = 0; $i <= 10000; $i++){
     $total += $i;
 }
 echo $total;
+echo "\n";
 
 
 //03
