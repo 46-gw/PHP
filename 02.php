@@ -1,6 +1,6 @@
 <?php
 
-// PHP/Laravel 02 PHPの型と基本的な式を理解しよう
+// PHP/Laravel 02 
 
 //01
 $a = 3;
